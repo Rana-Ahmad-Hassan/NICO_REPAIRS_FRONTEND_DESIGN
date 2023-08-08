@@ -1,0 +1,19 @@
+.back{
+    background-image: url("images/banner-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+.img4{
+    width: 95%;
+    float: left;
+    background-color: #000;
+    height: 40vh;
+    text-align: center;
+    padding: 40px 0px;
+}
+.body{
+    padding: 0;
+    margin: 0;
+}
